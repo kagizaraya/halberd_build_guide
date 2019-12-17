@@ -18,7 +18,7 @@ Number | Name | Value | Qty | Remarks | Place
 3  | Resistor | 22Ω | 3 | 1 spare, colored with yellow marker, marked "220" on the package. | R2, R3
 4  | Resistor | 10kΩ | 3 | 1 spare, colored with green marker, marked "103" on the package. | R1, R4
 5  | Capacitor | 22pF | 3 | 1 spare, colored with red marker. | C4, C5
-6  | コンデンサ | 0.1μF | 2 | 1 spare, no marker. | C3
+6  | Capacitor | 0.1μF | 2 | 1 spare, no marker. | C3
 7  | Crystal oscillator | FA238-16MHz | 1 | | Y1
 8 | Tact switch | TVAF17-WEC-R | 1 | | SW41
 9 | Resettable fuse | nanoSMDC050F/13.2 | 1 | | F1
